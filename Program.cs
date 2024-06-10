@@ -29,7 +29,7 @@ s = myfloat + 0.4846 + 1 + ""!""
 num3 = 10 -- 20 
 num3 = num3 + 15
 
-result = ""Hel"" + ""lo""
+result = ""Hel"" + ""l"" + ""o""
 
 result2 = num3 == num1 + num2 + (30 / 2) & num3 - 5 == num1 * 4 & result == ""Hell"" + ""o""
 ";
